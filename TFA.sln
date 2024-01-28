@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFA.Domain", "TFA.Domain\TFA.Domain.csproj", "{DD9DE5EB-DECE-40D6-BECD-F4DF33E2E8C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFA.Storage", "TFA.Storage\TFA.Storage.csproj", "{5C4A37C7-878D-4AFF-8E43-F33B5B50346F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFA.API", "TFA.API\TFA.API.csproj", "{E9369C1F-FDF2-4D0A-8768-B6325DF6ABDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD9DE5EB-DECE-40D6-BECD-F4DF33E2E8C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9DE5EB-DECE-40D6-BECD-F4DF33E2E8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9DE5EB-DECE-40D6-BECD-F4DF33E2E8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9DE5EB-DECE-40D6-BECD-F4DF33E2E8C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C4A37C7-878D-4AFF-8E43-F33B5B50346F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4A37C7-878D-4AFF-8E43-F33B5B50346F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C4A37C7-878D-4AFF-8E43-F33B5B50346F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C4A37C7-878D-4AFF-8E43-F33B5B50346F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9369C1F-FDF2-4D0A-8768-B6325DF6ABDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9369C1F-FDF2-4D0A-8768-B6325DF6ABDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9369C1F-FDF2-4D0A-8768-B6325DF6ABDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9369C1F-FDF2-4D0A-8768-B6325DF6ABDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
